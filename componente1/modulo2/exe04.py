@@ -13,7 +13,7 @@ def divisao(x, y):
     return "Não é possível dividir por 0."
 
 while True:
-    print("Qual operação você deseja realizar? \n")
+    print("Qual operação você deseja realizar: \n")
     print("1: Soma\n2: Subtração\n3: Multiplicação\n4: Divisão\n0: Sair")
     opcao = int(input("Digite alguma das opções acima: "))
 
