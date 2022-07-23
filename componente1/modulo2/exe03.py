@@ -20,4 +20,4 @@ def multiplicacao(x, y):
 def divisao(x, y):
     if y != 0:
         return x / y
-    return "Não é possível dividir por 0."
+    return "Não é possível dividir por 0!"
